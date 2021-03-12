@@ -5,11 +5,12 @@ source_metadata:
   title: གཏོར་དགུའི་ཆོ་ག
   author: ''
   volumes:
-    0c4f5499403e49aa9d05a8d2ebc9ac3a:
+    c907809e5b1b4c3f882f4fa7bb191422:
       image_group_id: I3CN2393
-      title: ''
+      title: Volume 1 of gtor dgu'i cho ga
       volume_number: 1
       total_pages: 190
+      base_file: v001.txt
 ebook_metadata:
   title: གཏོར་དགུའི་ཆོ་ག
   author: ''
